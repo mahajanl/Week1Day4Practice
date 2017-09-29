@@ -54,13 +54,14 @@ namespace week1day4practice
 
             //Console.WriteLine(nameOne.Equals(nameTwo));
 
-            Console.WriteLine("Hi there! Can I have your first name?");
-            string uneNom = Console.ReadLine();
+            //Console.WriteLine("Hi there! Can I have your first name?");
+            //string uneNom = Console.ReadLine();
 
-            Console.WriteLine("Can I now have your last name as well?");
-            string deuxNom = Console.ReadLine();
+            //Console.WriteLine("Can I now have your last name as well?");
+            //string deuxNom = Console.ReadLine();
 
-            Console.WriteLine("Your name is " + uneNom + " " + deuxNom + ".");
+            //Console.WriteLine("Your name is " + uneNom + " " + deuxNom + ".");
+
 
         }
     }
